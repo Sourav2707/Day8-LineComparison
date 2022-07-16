@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace LineComparision
 {
+ //Already using class so attaching same program
     public class Linecomp
     {
         public void Length()
